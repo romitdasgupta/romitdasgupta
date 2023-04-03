@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @romitdasgupta
-- 👀 I’m interested in Systems Programming
-- 🌱 I’m currently learning Virtualization
 - 💞️ I’m looking to collaborate on anything interesting and groundbreaking
 
 <!---
