@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romitdasgupta
-- 💞️ I’m looking to collaborate on anything interesting and groundbreaking
+- 💞️ I’m looking to collaborate on system software projects
 
 <!---
 romitdasgupta/romitdasgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
